@@ -1,0 +1,10 @@
+1. CSS stands for?,A. Common style sheets,B. Control style sheets,C.Central style sheets,D. Cascading Style Sheets,D. Cascading Style Sheets
+2. How do you insert a comment in a CSS file?,A. //this is a comment//,B. /this is a comment/,C. This is a comment,D. /*this is a comment*/,D. /*this is a comment*/
+3. How many types of levels in style sheets?,A. One level,B. Two level,C. Four level,D. Three level,D. Three level
+4. Stylesheet appears as a value of the ______ attribute.,A. style,B. jscript,C. sheet,D. nscript,A. style
+5. The ____________ selector is used to specify a style for a single & unique element,A. Id,B. class,C. text,D. Bit,A. Id
+6. What is the correct HTML for referring to an external style sheet?,A. < link rel=”stylesheet” type=”text/css” href=”mystyle.css” >,B. < style src=”mystyle.css” >,C. < stylesheet>mystyle.css,D. < a src=”mystyle.css” >,A. < link rel=”stylesheet” type=”text/css” href=”mystyle.css” >
+7. Which is the correct CSS syntax?,A. body {color:black;},B. body:color=black;,C. {body:color:black;},D. {body:color=black;},A. body {color:black;}
+8.What is CSS Float?,A. allows other element to wrap around an element,B. element can be pushed to the left to right,C. both a and b above,D. element can be pushed to any direction,C. both a and b above
+9. Which CSS property controls the text size?,A. text-size,B. text-style,C. font-size ,D. font-style,C. font-size 
+10. What is the correct CSS syntax for making all the <p> elements bold?,"A. < p style=""text-size:bold;"" >",B. p {text-size:bold;},C. p {font-weight:bold;},"D. < p style=""font-size:bold;"" >",C. p {font-weight:bold;}
